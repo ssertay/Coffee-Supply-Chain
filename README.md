@@ -1,8 +1,18 @@
-# Coffee Supply Chain
+# Udacity Coffee Supply Chain Project
 
-## UML Sequence Diagram
+##Sequence Diagram
 
 ![alt text](images/Sequence_Diagram.png)
+
+##Activity Diagram
+
+##State Diagram
+
+##Data Model
+
+##Libraries
+The project uses Ownable library to manage contract access and ownership.
+Roles library (Farmer, Distributor, Retailer, Consumer) is used to manage roles and access control.
 
 ## Contract Address on Rinkeby Network
 
